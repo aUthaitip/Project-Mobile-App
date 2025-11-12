@@ -30,8 +30,7 @@ It’s a complete mobile solution for **ordering food in a Shabu restaurant**, d
 | Framework | Flutter |
 | Language | Dart |
 | Database | Firebase (Firestore / Realtime Database) |
-| State Management | Provider / GetX *(specify if used)* |
-| Platform | Android / iOS |
+| State Management | Provider
 
 ---
 
