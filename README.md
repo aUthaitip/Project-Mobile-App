@@ -1,6 +1,6 @@
 # 🥘 Teeyai
 
-### 📱 Final Project for Mobile Application Development
+### 📱 Final Project for Mobile Application Development 
 
 This project is a **final group project (3 members)** developed using **Flutter** with **Dart** and **Firebase** as the backend database.  
 It’s a complete mobile solution for **ordering food in a Shabu restaurant**, designed for both customers and restaurant staff.
